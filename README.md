@@ -1,3 +1,6 @@
+Hello! 👋
+Please [https://esmer-terishli.github.io/react-task1/] to visit my personal website on my GitHub profile.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
