@@ -17,7 +17,7 @@ const Home = () => {
            esse nesciunt quaerat veritatis, eveniet maiores.
         </p>
             )
-        }
+        }  
 
 
         {/* <Button onClick={() => console.log('clicked')}>Click</Button>
